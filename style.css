@@ -1,0 +1,49 @@
+.titleContainer {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 40px;
+    color: rgb(120, 120, 120);
+    background-color: rgb(240, 240, 240);
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.buttonsContainer {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: rgb(240, 240, 240);
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 15px;
+    width: 100%;
+}
+
+button {
+    display: inline-block;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(120, 120, 120);
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button:hover {
+    color: black;
+    background-color: rgb(200, 200, 200);
+  }
+
+.gridContainer {
+    display: grid;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    width: 450px;
+    height: 450px;
+    border: 3px solid rgb(120, 120, 120);
+}
