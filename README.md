@@ -1,7 +1,12 @@
 # Etch-A-Sketch
 
-A browser version of an Etch-A-Sketch game.
+A browser version of something between a sketchpad and an Etch-A-Sketch.
 The purpose of this project is to use javascript DOM manipulation by changing html dynamically.
+
+## Try it live
+
+Try the live [demo here](https://andreadiotallevi.github.io/etch-a-sketch/)
+Enjoy!!
 
 ## Built with
 
